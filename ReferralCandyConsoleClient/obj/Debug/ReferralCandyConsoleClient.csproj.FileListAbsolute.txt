@@ -1,0 +1,18 @@
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyConsoleClient.exe
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyConsoleClient.pdb
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyWrapper.dll
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyWrapper.pdb
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.exe
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.exe
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.csprojResolveAssemblyReference.cache
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyConsoleClient.exe
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyConsoleClient.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyWrapper.dll
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyWrapper.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\Newtonsoft.Json.xml

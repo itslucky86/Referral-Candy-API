@@ -1,0 +1,14 @@
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\ReferralCandyWrapper.dll
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\ReferralCandyWrapper.pdb
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\obj\Debug\ReferralCandyWrapper.csprojResolveAssemblyReference.cache
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\obj\Debug\ReferralCandyWrapper.dll
+C:\Users\uakram\Downloads\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\obj\Debug\ReferralCandyWrapper.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\obj\Debug\ReferralCandyWrapper.csprojResolveAssemblyReference.cache
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\obj\Debug\ReferralCandyWrapper.dll
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\obj\Debug\ReferralCandyWrapper.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\ReferralCandyWrapper.dll
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\ReferralCandyWrapper.pdb
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyWrapper\bin\Debug\Newtonsoft.Json.xml
