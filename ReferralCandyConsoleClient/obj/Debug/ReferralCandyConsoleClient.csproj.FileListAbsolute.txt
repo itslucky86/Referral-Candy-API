@@ -16,3 +16,5 @@ D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-
 D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\Newtonsoft.Json.dll
 D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\ReferralCandyWrapper.pdb
 D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyWrapper-22-05-2017_1542\ReferralCandyWrapper-master\ReferralCandyWrapper-master\ReferralCandyConsoleClient\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.exe
+D:\Projects\MANvFAT\Football\Referral Candy API Code\ReferralCandyConsoleClient\obj\Debug\ReferralCandyConsoleClient.pdb

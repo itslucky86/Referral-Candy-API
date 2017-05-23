@@ -6,8 +6,8 @@ namespace ReferralCandyConsoleClient
 {
     internal class Program
     {
-        private const string AccessID = "hbnwiqoy590n4aw4durns06rs";
-        private const string SecreteKey = "9d2e99fb5febbfafd4bc56ace31e2ceb";
+        private const string AccessID = "YOUR-ACCESS-ID";
+        private const string SecreteKey = "YOUR-SECRETE-KEY";
         private static void Main(string[] args)
         {
             #region Purchase Method
